@@ -1,2 +1,2 @@
 # aolteanu00.github.io
-Practice with Github Pages
+Practice using GitHub pages.
